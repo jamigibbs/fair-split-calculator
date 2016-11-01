@@ -1,0 +1,98 @@
+
+body {
+  font-family: arial, sans-serif;
+}
+
+*:focus {
+    outline: none;
+}
+
+hr {
+  margin: 10px 0;
+}
+
+h4 {
+  color: #848484;
+  font-size: 13px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+input {
+  background: none;
+  border-bottom: 1px solid #888888;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.shadow {
+  -moz-box-shadow:    1px 1px 7px 2px #ddd;
+  -webkit-box-shadow: 1px 1px 5px 2px #ddd;
+  box-shadow:         1px 1px 5px 2px #ddd;
+}
+
+.header {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-bottom: 10px;
+}
+
+.results {
+  margin-top: 20px;
+}
+.results .results-owes {
+  padding: 10px 0;
+}
+.results h4 {
+  color: #333;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.total h4 {
+  font-size: 13px;
+  margin-bottom: 10px;
+  font-weight: normal;
+}
+
+.earnings {
+  padding: 2em 0;
+  border-top: 1px solid #efefef;
+  background-color: #F8F8F8;
+}
+.earnings h3 {
+  margin: 10px 0;
+}
+.earnings span {
+  font-size: 16px;
+}
+
+.bill h4 {
+  margin: 20px 0 10px 0;
+}
+
+footer {
+  color: #848484;
+  text-align: center;
+  padding: 2em 0;
+}
+footer a {
+  color: #848484;
+}
+footer a:hover {
+  color: #333;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 600px;
+  }
+}
