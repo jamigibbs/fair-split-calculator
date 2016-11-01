@@ -1,42 +1,4 @@
 
-body {
-  font-family: arial, sans-serif;
-}
-
-*:focus {
-    outline: none;
-}
-
-hr {
-  margin: 10px 0;
-}
-
-h4 {
-  color: #848484;
-  font-size: 13px;
-  display: block;
-  margin-bottom: 10px;
-}
-
-.container {
-  margin-top: 20px;
-}
-
-input {
-  background: none;
-  border-bottom: 1px solid #888888;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-  font-size: 18px;
-  line-height: 21px;
-}
-
-.shadow {
-  -moz-box-shadow:    1px 1px 7px 2px #ddd;
-  -webkit-box-shadow: 1px 1px 5px 2px #ddd;
-  box-shadow:         1px 1px 5px 2px #ddd;
-}
 
 .header {
   padding-right: 15px;

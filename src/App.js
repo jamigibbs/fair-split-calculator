@@ -76,7 +76,7 @@ class App extends Component {
 
         <hr />
 
-        <footer>Created by <a href="https://github.com/jamigibbs/fair-split">Jami Gibbs</a></footer>
+        <footer>Created by <a href="https://github.com/jamigibbs/fair-split-calculator">Jami Gibbs</a></footer>
       </div>
     );
   }
