@@ -2,6 +2,8 @@
 
 This is a simple ReactJS calculator that takes two earnings and determines the amount each should pay towards an inputed set of household bills. Based on the thought that two different incomes should not be paying the same amount.
 
+[Play with me!](https://fair-split-calc.herokuapp.com/)
+
 ![preview](preview.png)
 
 ## Available Scripts
