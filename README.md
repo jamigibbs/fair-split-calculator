@@ -4,7 +4,9 @@ This is a simple ReactJS calculator that takes two earnings and determines the a
 
 [Play with me!](https://fair-split-calc.herokuapp.com/)
 
-![preview](preview.gif)
+<!-- ![preview](preview.gif) -->
+
+<img src="https://github.com/jamigibbs/fair-split-calculator/blob/master/preview.gif" width="500">
 
 ## Available Scripts
 
