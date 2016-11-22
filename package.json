@@ -6,11 +6,11 @@
   "bugs": {
     "url": "https://github.com/jamigibbs/fair-split-calculator/issues"
   },
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "git://github.com/jamigibbs/fair-split-calculator.git"
   },
-  "author" : "Jami Gibbs <jami0821@gmail.com>",
+  "author": "Jami Gibbs <jami0821@gmail.com>",
   "license": "MIT",
   "private": false,
   "devDependencies": {
@@ -20,7 +20,8 @@
     "bootstrap": "^3.3.7",
     "react": "^15.3.2",
     "react-bootstrap": "^0.30.6",
-    "react-dom": "^15.3.2"
+    "react-dom": "^15.3.2",
+    "react-ga": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
